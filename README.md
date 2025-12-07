@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/baloghk/baloghk/tree/main/images/header.gif" alt="header"/>
+  <img src="https://github.com/baloghk/baloghk/blob/main/images/header.gif" alt="header"/>
 </div>
 
 <h2 align="center"> Who i am</h2>

@@ -4,7 +4,7 @@
 
 <h2 align="center"> Who i am</h2>
 <p align="center">
-  <samp>Passionate about building scalable apps with .NET, React, Angular, and solid database + DevOps foundations. <br>
+  <samp>Passionate about building scalable apps with .NET, component-based frameworks like Angular, using relational databases, such as PostgreSQL and MSSQL + DevOps foundations. <br>
 Fan of clean architecture, automation, and writing reliable tests.
   </samp>
   <br> <br>
